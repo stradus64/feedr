@@ -1,1 +1,14 @@
-https://xkcd.com/atom.xml
+https://store.steampowered.com/feeds/news/app/1229490/
+https://store.steampowered.com/feeds/news/app/1145350/
+https://store.steampowered.com/feeds/news/app/1409530/
+https://blood.church/rss.xml
+https://matklad.github.io/feed.xml
+https://fasterthanli.me/index.xml
+https://a327ex.com/feed.rss
+https://twitchrss.appspot.com/vodonly/yuria
+https://protesilaos.com/commentary.xml
+https://protesilaos.com/codelog.xml
+https://yellowafterlife.substack.com/feed
+https://danboland.net/feed.xml
+https://unixdigest.com/feed.rss
+https://karthinks.com/index.xml
