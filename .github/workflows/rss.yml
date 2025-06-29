@@ -19,6 +19,6 @@ jobs:
       - name: Run script
         run: python generate.py
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./  # or wherever your index.html is
