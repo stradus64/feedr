@@ -1,0 +1,24 @@
+name: Generate RSS HTML
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install feedparser
+      - name: Run script
+        run: python generate.py
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./  # or wherever your index.html is
