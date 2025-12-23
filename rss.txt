@@ -12,3 +12,4 @@ https://yellowafterlife.substack.com/feed
 https://danboland.net/feed.xml
 https://unixdigest.com/feed.rss
 https://karthinks.com/index.xml
+https://critpoints.net/feed
