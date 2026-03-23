@@ -10,6 +10,7 @@ https://protesilaos.com/commentary.xml
 https://protesilaos.com/codelog.xml
 https://yellowafterlife.substack.com/feed
 https://danboland.net/feed.xml
-https://unixdigest.com/feed.rss
+https://unixdigest.com/articles.xml
+https://unixdigest.com/tutorials.xml
 https://karthinks.com/index.xml
 https://critpoints.net/feed
