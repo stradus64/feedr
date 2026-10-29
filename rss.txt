@@ -13,3 +13,4 @@ https://unixdigest.com/articles.xml
 https://unixdigest.com/tutorials.xml
 https://karthinks.com/index.xml
 https://critpoints.net/feed
+https://www.gingerbill.org/article/index.xml
