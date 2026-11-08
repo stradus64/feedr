@@ -246,3 +246,8 @@ label, legend, fieldset {
 :target {
     text-decoration: underline 4px;
 }
+
+body {
+    color: silver;
+    background: darkslategray;
+}
